@@ -1,0 +1,30 @@
+# Medical images and annotation data
+data/
+datasets/
+images/
+annotations/
+outputs/
+*_measure.csv
+*_fdi.csv
+*_ROI.zip
+
+# Model weights and training outputs
+weights/
+runs/
+runs_fdi/
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Local environment and editor files
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+

@@ -1,0 +1,4 @@
+pandas>=2.0
+Pillow>=10.0
+ultralytics>=8.0
+
